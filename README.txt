@@ -12,3 +12,10 @@ Liste des essences à ajouter :
  - érable
  - ...
 
+Equipe de travail :
+Olivier Thomas
+Bill Evans
+John Carpenter
+Keith Jarett
+Oscar Peterson
+
